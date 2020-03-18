@@ -8,6 +8,8 @@ Another problem or limitation, which can be overcome using pure assembly , is th
 
 Another limitation, which can be overcome using pure assembly , is the MSX1 video chip can only detect a collision between any two displayed sprites but it can't tell the programmer which two sprites have collided. In other words the video chip cannot distinguish if the "player sprite" collides with "two or more types of game defined sprites". These limitations apply to my game where the player 1 or 2 sprite collides with a black or non-black sprite. I overcame these MSX-1 video hardware limitations by using a custom pure assembly code for sprite collision.
 
+It too over 1500 lines of complicated assembly code to create the game even though it may seem that there is not a lot going on in the game.
+
 Sound is only minimally implemented because it is only a beep when when some sprites collides. Adding more sound or music to the game is easy to do. We can think of this small game as a sprite tech-demo to show how to get past the video hardware limitations of the MSX-1 using pure assembly laguage. The game is given here as a .ROM file; the ROM can be played on an MSX-1 machine emulator. A ROM file is basically equivalent to a MSX-1 game cartridge.
 
 Player 1 keys are left, right and up.
