@@ -1,8 +1,8 @@
 # RISEGAMEMSXZ80ASM_18th-MARCH-2020
 
-The MSX-1 8 bit home computers were conceived and sold in the early 1980s. This repository is for a small MSX-1 game I wrote in pure assembly language (i.e. it does not use BASIC or MSX BASIC). The game would be too slow to create in MSX-BASIC, or a similar high level language, one reason is because there are a lot of sprites to move on the screen- see the screenshot of the game below. In other words using MSX BASIC it is impossible to make the game and have it running at the speed it does.
+The MSX-1 8 bit home computers were conceived and sold in the early 1980s. This repository is for a small MSX-1 game I wrote, called Rise, in pure assembly language (i.e. it does not use BASIC or MSX BASIC). The game would be too slow to create in MSX-BASIC, or a similar high level language, one reason is because there are a lot of sprites to move on the screen- see the screenshot of the game below. In other words using MSX BASIC, or a similar high level language, it is impossible to make the game and have it running at the speed it does.
 
-![Image description](https://github.com/MChowdhuryZ80ASM/RISEGAMEMSXZ80ASM_18th-MARCH-2020/blob/master/rimage.JPG)
+![Image description](https://github.com/MChowdhuryZ80ASM/RISEGAMEMSXZ80ASM_18th-MARCH-2020/blob/master/rimage3.JPG)
 
 Another problem or limitation, which can be overcome using pure assembly , is the MSX1 video chip can not display more than 4 complete sprites on a scanline. However because the way I designed the game we can see 10 sprites on the screen without easy to notice visual artifacts.
 
@@ -13,5 +13,5 @@ Sound is only minimally implemented because it is only a beep when when some spr
 Player 1 keys are left, right and up.
 Player 2 keys are 1,2, and 3.
 
-The working assembly code given for the game is actually an earlier version of the game (where the graphics are replaced by characters or numbers). In the final version of the code some of the macros and some of the subroutines are more complcated than the earlier versions. When I have properly commented and finised the final code I  will upload it-or if you want the latest version of the code then contact me.
+The working assembly code given for the game is actually an earlier version of the game (where the graphics are replaced by characters or numbers). In the final version of the code some of the macros and some of the subroutines are more complcated than the earlier versions. When I have properly commented and finised the final code I  will upload it-or if you want the latest version of the code then contact me. I may possibly add more levels or features to the game.
 
