@@ -13,5 +13,5 @@ Sound is only minimally implemented because it is only a beep when when some spr
 Player 1 keys are left, right and up.
 Player 2 keys are 1,2, and 3.
 
-The working assembly code given for the game is actually an earlier version of the game (where the graphics are replaced by characters or numbers). In the final version of the code some of the macros and some of the subroutines are more complcated than the earlier versions. When I have properly commented and finised the final code I  will upload it-or if you want the latest version of the code then contact me. I may possibly add more levels or features to the game.
+The working assembly code given for the game is actually an earlier version of the game (where the graphics are replaced by characters or numbers). 
 
