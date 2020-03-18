@@ -13,5 +13,5 @@ Sound is only minimally implemented because it is only a beep when when some spr
 Player 1 keys are left, right and up.
 Player 2 keys are 1,2, and 3.
 
-The working assembly code given for the game is actually an earlier version of the game (where the graphics are replaced by characters or numbers). My code can be used with VASM.
+My code can be used with VASM.
 
