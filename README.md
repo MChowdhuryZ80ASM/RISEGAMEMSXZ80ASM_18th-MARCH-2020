@@ -1,6 +1,6 @@
 # RISEGAMEMSXZ80ASM_18th-MARCH-2020
 
-The MSX-1 8 bit home computers were conceived and sold in the early 1980s. MSX computers are the many distinct computers, compatible with the MSX standard, made by different companies.This repository is for a small MSX-1 game I wrote, called Rise, in pure assembly language (i.e. it does not use BASIC or MSX BASIC). The game would be too slow to create in MSX-BASIC, or a similar high level language, one reason is because there are a lot of sprites to "rotate" or move on the screen- see the screenshot of the game below. In other words using MSX BASIC, or a similar high level language, it is impossible to make the game and have it running at the speed it does.
+The MSX-1 8 bit home computers were conceived and sold in the early 1980s. MSX-1 computers are the many distinct computers, compatible with the MSX-1 standard, made by different companies.This repository is for a small MSX-1 game I wrote, called Rise, in pure assembly language (i.e. it does not use BASIC or MSX BASIC). The game would be too slow to create in MSX-BASIC, or a similar high level language, one reason is because there are a lot of sprites to "rotate" or move on the screen- see the screenshot of the game below. In other words using MSX BASIC, or a similar high level language, it is impossible to make the game and have it running at the speed it does.
 
 ![Image description](https://github.com/MChowdhuryZ80ASM/RISEGAMEMSXZ80ASM_18th-MARCH-2020/blob/master/rimage3.JPG)
 
